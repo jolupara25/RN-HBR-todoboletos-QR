@@ -92,7 +92,14 @@ HoneywellBarcodeReader.offBarcodeReadSuccess();
 HoneywellBarcodeReader.offBarcodeReadFail();
 ```
 
-Si este paquete te fue útil y quieres apoyar mi trabajo, puedes invitarme un café aquí:
 
-O simplemente visita 👉 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-apóyame-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/jolupara)
+### ☕ Support me on Buy Me a Coffee
+
+If this package was helpful and you'd like to support my work, you can **buy me a coffee** here:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-apóyame-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/jolupara)
+
+
+
+
 
